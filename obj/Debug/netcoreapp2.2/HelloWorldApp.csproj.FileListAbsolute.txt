@@ -1,0 +1,66 @@
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/bin/Debug/netcoreapp2.2/HelloWorldApp.deps.json
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/bin/Debug/netcoreapp2.2/HelloWorldApp.runtimeconfig.json
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/bin/Debug/netcoreapp2.2/HelloWorldApp.runtimeconfig.dev.json
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/bin/Debug/netcoreapp2.2/HelloWorldApp.dll
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/bin/Debug/netcoreapp2.2/HelloWorldApp.pdb
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/bin/Debug/netcoreapp2.2/HelloWorldApp.Views.dll
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/bin/Debug/netcoreapp2.2/HelloWorldApp.Views.pdb
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.csprojAssemblyReference.cache
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.csproj.CoreCompileInputs.cache
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.RazorAssemblyInfo.cache
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.RazorAssemblyInfo.cs
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.AssemblyInfoInputs.cache
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.AssemblyInfo.cs
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.TagHelpers.input.cache
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.TagHelpers.output.cache
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.RazorCoreGenerate.cache
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/Error.g.cshtml.cs
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/HelloWorld.g.cshtml.cs
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.g.cshtml.cs
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.g.cshtml.cs
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.g.cshtml.cs
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.g.cshtml.cs
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.RazorTargetAssemblyInfo.cache
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.RazorTargetAssemblyInfo.cs
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.Views.pdb
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.dll
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.pdb
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.csproj.CopyComplete
+/Users/lda49/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/CurrencyConverter.g.cshtml.cs
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/bin/Debug/netcoreapp2.2/HelloWorldApp.deps.json
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/bin/Debug/netcoreapp2.2/HelloWorldApp.runtimeconfig.json
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/bin/Debug/netcoreapp2.2/HelloWorldApp.runtimeconfig.dev.json
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/bin/Debug/netcoreapp2.2/HelloWorldApp.dll
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/bin/Debug/netcoreapp2.2/HelloWorldApp.pdb
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/bin/Debug/netcoreapp2.2/HelloWorldApp.Views.dll
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/bin/Debug/netcoreapp2.2/HelloWorldApp.Views.pdb
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.csprojAssemblyReference.cache
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.RazorAssemblyInfo.cache
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.RazorAssemblyInfo.cs
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.AssemblyInfoInputs.cache
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.AssemblyInfo.cs
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.TagHelpers.input.cache
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.TagHelpers.output.cache
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.RazorCoreGenerate.cache
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/CurrencyConverter.cshtml.g.cs
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/Error.cshtml.g.cs
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/HelloWorld.cshtml.g.cs
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/Index.cshtml.g.cs
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.cshtml.g.cs
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.RazorTargetAssemblyInfo.cache
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.RazorTargetAssemblyInfo.cs
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.Views.pdb
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.dll
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.pdb
+/Users/lda49/OneDrive - Sky/University/RiderProjects/HelloWorldApp/HelloWorldApp/obj/Debug/netcoreapp2.2/HelloWorldApp.csproj.CopyComplete
